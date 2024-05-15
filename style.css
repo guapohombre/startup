@@ -32,4 +32,6 @@ header {
   color: black;
   margin: 1em;
   border-radius: 8px;
+  display: grid;
+  place-content: center;
 }
